@@ -1,4 +1,4 @@
-# Hi, I am Carlos!
+# Hi, I am Carlos! 🧑🏽‍💻
 
 🧑🏽‍🎓 **Computer Science Student** at Salem State University.</br>
 🏢 Currently working as a **Web developer Instructor and Program Associate.**</br>
